@@ -1,0 +1,8 @@
+.button1 {
+    background-color: aquamarine;
+    border-radius: 10%;
+    width: 100px;
+}
+body {
+    background:linear-gradient(#FF0000 0%, #ff00ea 100%);
+}
